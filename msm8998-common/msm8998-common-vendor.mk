@@ -90,6 +90,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/msm8998-common/proprietary/etc/permissions/com.qti.snapdragon.sdk.display.xml:system/etc/permissions/com.qti.snapdragon.sdk.display.xml \
     vendor/oneplus/msm8998-common/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/oneplus/msm8998-common/proprietary/etc/permissions/com.qualcomm.qti.imscmservice.xml:system/etc/permissions/com.qualcomm.qti.imscmservice.xml \
+    vendor/oneplus/msm8998-common/proprietary/etc/permissions/com.qualcomm.location.vzw_library.xml:system/etc/permissions/com.qualcomm.location.vzw_library.xml \
     vendor/oneplus/msm8998-common/proprietary/etc/permissions/com.quicinc.cne.xml:system/etc/permissions/com.quicinc.cne.xml \
     vendor/oneplus/msm8998-common/proprietary/etc/permissions/dpmapi.xml:system/etc/permissions/dpmapi.xml \
     vendor/oneplus/msm8998-common/proprietary/etc/permissions/embms.xml:system/etc/permissions/embms.xml \
@@ -118,6 +119,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/msm8998-common/proprietary/etc/oneplus5T_vstab_db_720p_video_1_30fps.config:system/etc/oneplus5T_vstab_db_720p_video_1_30fps.config \
     vendor/oneplus/msm8998-common/proprietary/etc/wfdconfig.xml:system/etc/wfdconfig.xml \
     vendor/oneplus/msm8998-common/proprietary/etc/wfdconfigsink.xml:system/etc/wfdconfigsink.xml \
+    vendor/oneplus/msm8998-common/proprietary/framework/com.qualcomm.location.vzw_library.jar:system/framework/com.qualcomm.location.vzw_library.jar \
     vendor/oneplus/msm8998-common/proprietary/framework/cneapiclient.jar:system/framework/cneapiclient.jar \
     vendor/oneplus/msm8998-common/proprietary/framework/com.qti.dpmframework.jar:system/framework/com.qti.dpmframework.jar \
     vendor/oneplus/msm8998-common/proprietary/framework/com.qti.location.sdk.jar:system/framework/com.qti.location.sdk.jar \
